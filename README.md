@@ -1,1 +1,1 @@
-﻿# graphql-books-app
+﻿# graphql-library-app
