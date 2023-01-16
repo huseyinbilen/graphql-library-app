@@ -9,7 +9,8 @@ const typeDefs = `#graphql
   }
 
   type Mutation {
-  addBook(title: String!, author: String!): Book
+    addBook(title: String!, author: String!): Book
+    deleteBook(title: String!, author: String!): Book
   }
 `;
 
